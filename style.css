@@ -1,0 +1,145 @@
+.main1{
+    display: flex !important;
+}
+.d1{
+    display: flex;
+}
+.mainh{
+    font-size: 60px;
+    margin-left: 30px;
+    margin-top: 10px;
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+}
+.para{
+    font-size: 25px;
+    margin-top: 12px;
+    margin-left:20px ;
+}
+.botn1{
+    width:  264px;
+    height:  68px;
+    padding: 20px 35px 20px 35px;
+    gap: 10px;
+    border-radius: 14px 0px 0px 0px;
+    opacity: 0px;
+    color: white;
+    background-color: black;
+}
+.down{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    gap: 20px;
+    padding: 40px 0px;
+}
+.new{
+    display: flex;
+    gap: 120px;
+}
+.bottn{
+    width:  264px;
+    height:  68px;
+    padding: 20px 35px 20px 35px;
+    gap: 10px;
+    border-radius: 14px 0px 0px 0px;
+    opacity: 0px;
+    color: white;
+    background-color: green; 
+}
+.p2{
+    font-size: 20px;
+}
+.main10{
+    display: flex;
+    gap: 350px;
+    left: 105px;
+}
+.boxie{
+    font-size: 25px;
+}
+.box1{
+    background-color: grey;
+    margin-left: 30px;
+    width: 390px;
+    height: 350px;
+    margin-top: 30px;
+}
+.box2{
+    background-color: green;
+    margin-left: 30px;
+    width: 390px;
+    height: 350px;
+    margin-top: 30px;
+    text-decoration: white;
+}
+    .main3{
+        display: flex;
+        margin-top: 20px;
+        gap: 30px;
+        margin-left: 38px;
+    }
+    .boottn{
+        color: white;
+        background-color: green;
+        border: none;
+    }
+    .newbox{
+        display: inline;
+        left: 23px;
+    }
+    .boxx1{
+        background-color: lightgreen;
+        margin-top: 20px;
+        gap: 45px;
+        border-radius: 50px;
+    }
+    .heading9{
+        left: 50px;
+    }
+    .p5{
+        font-size: 23px;
+        text-align: center;
+        
+    }
+    .boxx2{
+        color: white;
+        background-color: grey;
+    height: 160px;
+    }
+    .boxx3{
+        color: white;
+        background-color: grey;
+    height: 160px;
+    margin-top: 30px;
+    }
+    .boxx4{
+        color: white;
+        background-color: grey;
+    height: 160px;
+    margin-top: 30px;
+    }
+    .boxx5{
+        color: white;
+        background-color: grey;
+    height: 160px;
+    margin-top: 30px;
+    }
+    .boxx6{
+        color: white;
+        background-color: grey;
+    height: 160px;
+    margin-top: 30px;
+    }
+    .end{
+        color: white;
+        background-color: green;
+        border: none;
+        
+    }
+    form{
+        text-align: center;
+    }
+    
+    
